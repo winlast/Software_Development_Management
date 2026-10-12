@@ -28,8 +28,4 @@ VK Education × МГТУ им. Н. Э. Баумана
 
 ### Lean Canvas
 
-<!-- Сюда вставить изображение после заполнения:
 ![Lean Canvas Memolith](lean-canvas.png)
--->
-
-_В работе._
